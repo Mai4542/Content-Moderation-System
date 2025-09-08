@@ -4,7 +4,7 @@ Content Moderation System
 A machine learning-based system for automatic content moderation, detecting toxic, spam, and safe content.
 The system combines rule-based filters with ML classifiers to simulate real-world moderation tools used by platforms like Facebook, Twitter, YouTube, and OpenAI.
 
-👉 Open Colab Notebook
+👉 Open Colab Notebook : https://colab.research.google.com/drive/1DKw15SKawbvBiI2BoIRkf7_n-da1jCWA?usp=sharing
 
 📌 Project Overview
 
@@ -43,15 +43,11 @@ Configurable confidence thresholds
 
 Dynamic decision making based on risk scores
 
-📊 Dataset
-
-The dataset used in this project is available here:
-Google Drive Dataset
 
 🚀 Google Colab Notebook
 
 You can run and explore the project notebook here:
-👉 Open Colab Notebook
+https://colab.research.google.com/drive/1DKw15SKawbvBiI2BoIRkf7_n-da1jCWA?usp=sharing
 
 👩‍💻 Team Members
 
